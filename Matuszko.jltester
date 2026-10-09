@@ -1,0 +1,9 @@
+{
+ "format": "jugglelab-tester/1",
+ "name": "Matuszko",
+ "host": "jugglelab@217.160.131.178",
+ "port": 22,
+ "until": "2026-10-16T13:33",
+ "key": "-----BEGIN OPENSSH PRIVATE KEY-----\nb3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAAAMwAAAAtzc2gtZW\nQyNTUxOQAAACB4jwm1icBTJKtIcRLo6pS8ddeFfe6s2vv+6efrXC8x6AAAAKD6Nnrw+jZ6\n8AAAAAtzc2gtZWQyNTUxOQAAACB4jwm1icBTJKtIcRLo6pS8ddeFfe6s2vv+6efrXC8x6A\nAAAECWfzSK32kPE8ZhY6N589rGgO+ge77ieXZ+18exjFiCd3iPCbWJwFMkq0hxEujqlLx1\n14V97qza+/7p5+tcLzHoAAAAGWp1Z2dsZWxhYi10ZXN0ZXI6TWF0dXN6a28BAgME\n-----END OPENSSH PRIVATE KEY-----\n",
+ "known_host": "217.160.131.178 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAN+eW4fm9PqVeGL3b0cpujcbW30qtpP5TiHxwr3EL3h"
+}
